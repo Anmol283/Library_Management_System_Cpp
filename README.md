@@ -1,9 +1,4 @@
 # Library_Management_System_C++
-Here’s a possible README description for your project:
-
----
-
-# Library Management System
 
 ## Overview
 
@@ -62,6 +57,3 @@ Title: C++ Author: abc ISBN: 123 Available: Yes
 - Implement a user interface for easier interaction.
 - Add more features like book borrowing and returning.
 
----
-
-This README description will give users a clear understanding of what the project is about and how to interact with it!
